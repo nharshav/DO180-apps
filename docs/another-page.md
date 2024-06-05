@@ -1,1 +1,1 @@
-Another page [pages](new-page)
+Another page [pages](new-page.md)
