@@ -1,1 +1,1 @@
-this is the newest other [page](new-page.md) 
+this is the newest other [page](new-page) 
