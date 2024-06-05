@@ -2,7 +2,15 @@ site_name: testing Github Page
 index_pages:
   - new page: wiki/DO180-apps/Home.md
 
+nav:
+  - Home: index.md
+  - Another Page: another-page.md
+  - New Page: new-page.md
 
+pages:
+  - Home: index.md
+  - Another Page: another-page.md
+  - New Page: new-page.md
 
 
 # Repository
