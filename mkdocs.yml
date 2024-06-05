@@ -7,11 +7,6 @@ nav:
   - Another Page: another-page.md
   - New Page: new-page.md
 
-pages:
-  - Home: index.md
-  - Another Page: another-page.md
-  - New Page: new-page.md
-
 
 # Repository
 repo_name: nharshav/DO180-apps
