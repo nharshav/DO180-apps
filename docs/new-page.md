@@ -1,1 +1,1 @@
-This is a new page hosted on git [pages](other-page)
+This is a new page hosted on git [pages](other-page.md)
