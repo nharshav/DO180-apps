@@ -1,1 +1,1 @@
-This is another page for reference.
+This is another page for [reference](https://github.com/nharshav/DO180-apps/wiki/new-page)
